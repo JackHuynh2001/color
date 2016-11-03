@@ -24,14 +24,22 @@ Color.isColor = function(rgb){
 
 Color.redIntensity = function(rgb){
   let (rgb[0]/255)*100
-  Math.Round()
+  redIntensity=Math.Round()
 };
 
 //greenIntensity
+Color.greenIntensity = function(rgb){
+  let (rgb{0}/255)*100
+  greenIntensity=Math.Round()
+
+
+}
 
 
 //blueIntensity
-
+Color.blueIntensity=function(rgb){
+  let (rgb[0/255])
+}
 
 //brightness
 
