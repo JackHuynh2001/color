@@ -20,25 +20,29 @@ Color.isColor = function(rgb){
   else{
     return false;
   }
-};
+}
 
 Color.redIntensity = function(rgb){
-  let (rgb[0]/255)*100
-  redIntensity=Math.Round()
-};
+  let (rgb[0]/255)*100;
+  redIntensity=Math.Round();
+  return redIntensity=Math.Round();
+}
 
 //greenIntensity
 Color.greenIntensity = function(rgb){
-  let (rgb{0}/255)*100
-  greenIntensity=Math.Round()
-
+  let (rgb[0]/255)*100;
+  greenIntensity=Math.Round();
+  return greenIntensity;
 
 }
 
 
 //blueIntensity
 Color.blueIntensity=function(rgb){
-  let (rgb[0/255])
+  let (rgb[0]/255)*100;
+  blueIntensity=Math.Round();
+  return blueIntensity;
+
 }
 
 //brightness
